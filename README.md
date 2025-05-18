@@ -12,15 +12,6 @@
 
 ---
 
-### 💻 Skills & Stack
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilbolona&layout=compact&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ilbolona&show_icons=true&theme=radical" height="150"/>
-</p>
-
----
-
 ### 📊 Skill Chart
 
 <p align="center">
