@@ -1,10 +1,54 @@
-- 👋 Hi, I’m @Valley658 — always exploring and building cool stuff.
-- 👀 I’m interested in web development, AI, and networking.
-- 🌱 I’m currently learning more about Linux and networking.
-- 😄 Pronouns: Valley
-- ⚡ Fun fact: I'm a huge fan of Linux — can't get enough of it!
+<h1 align="center">🎯 Hello, I'm <span style="color:#4aa96c;">Ilbolona</span> 👋</h1>
 
-<!---
-Valley658/Valley658 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">배움에 끝은 없다. 끊임없이 성장하는 독학 개발자입니다.</p>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🌱 **혼자서 코딩을 공부하며** 다양한 프로젝트를 경험한 풀스택 개발자
+- 🌐 **웹부터 서버까지** 넘나들며 실전 감각을 쌓는 중
+- 🛡️ **정보보안, 해킹, 서버, 네트워크** 등 시스템 전반에 관심 많음
+
+---
+
+### 💻 Skills & Stack
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilbolona&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ilbolona&show_icons=true&theme=radical" height="150"/>
+</p>
+
+---
+
+### 📊 Skill Chart
+
+<p align="center">
+  <img src="./skill_pie_chart.png" width="400" alt="Ilbolona's Skill Chart">
+</p>
+
+- **PHP**: 30%  
+- **Node.js**: 40%  
+- **Python**: 80%  
+- **C#**: 60%  
+- **Linux**: 20%  
+- **Kali Linux**: 10%  
+
+---
+
+### ⚡ Interests
+
+- 🧠 **정보보안, 해킹, CTF** 문제 풀기
+- 🐧 **Kali Linux & 서버 관리** 실전 경험 쌓기
+- 🔐 **보안 설정 및 자동화**에 관심
+- 💻 **CLI 기반 도구 개발** 즐김
+
+---
+
+> 💬 "계속 배우고 싶은 개발자, Ilbolona입니다." 🌱
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-Terminal-informational?logo=linux" />
+  <img src="https://img.shields.io/badge/Kali-Linux-blue?logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Developer-yellow?logo=python" />
+</p>
